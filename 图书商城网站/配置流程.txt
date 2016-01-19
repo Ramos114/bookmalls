@@ -1,0 +1,10 @@
+配置goods项目
+	1.安装myeclipse10
+	2.安装jdk1.7
+	3.安装解压缩版的H:\Study\javaweb\apache-tomcat-7.0.64
+	4.配置myeclipse10的tomcat，将自带的myeclipse tomcat点击disable，将tomcat7.x点击enable
+	5.配置jdk为1.7
+	6.将tomcat7.x的jdk选择为1.7版本
+	7.新建一个goods的项目，然后将goods项目下的src和webroot文件夹拷贝过来
+	8.安装mysql,新建一个goods的数据库，将.sql文件导入进去
+	9.然后修改c3p0-config.xml的数据库配置
